@@ -15,3 +15,7 @@ function subtraction(a,b) {
   return a - b;
 }
 
+//djelim kasno
+function djelim(a, b) {
+  return a / b;
+}
